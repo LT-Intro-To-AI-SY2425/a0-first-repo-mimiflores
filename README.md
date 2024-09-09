@@ -1,4 +1,4 @@
-# mimi flores p3
+### mimi flores p3
 
 # :wave: The Basics of GitHub 
 
